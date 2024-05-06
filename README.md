@@ -16,7 +16,7 @@ This repository contains the code for a personal portfolio website. The website 
 
 Clone the repository to your local machine and open the `index.html` file in a web browser.
 
-##Overview 
+## Overview 
 ![image](https://github.com/praneetha16/CodeClauseInternship_PortfolioWebsite/assets/72999291/bb2753e8-5751-43e2-a52a-f0066752a0b8)
 
 
